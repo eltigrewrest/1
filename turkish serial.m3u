@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://turk-site5.top/uploads/posts/2024-04/1713256497_nevesta-1.webp", Невеста 1 серия
-#EXTGRP:Невеста (2024)
 https://s1.tuser.online/hls/stream/turk/nevesta_s01e01_opera_236843/hls/index.m3u8
+#EXTGRP:Невеста (2024)
 #EXTINF:-1 tvg-logo="https://turk-site5.top/uploads/posts/2024-04/1713256497_nevesta-1.webp", Невеста 2 серия
 https://s1.tuser.online/hls/stream/turk/nevesta_s01e02_ozv_237443/hls/index.m3u8
 #EXTGRP:Невеста (2024)
